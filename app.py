@@ -4,6 +4,7 @@ import os
 import altair as alt
 import random
 
+# temp
 # --- Configuration ---
 CSV_FILE = 'wurstliga_results.csv'
 # Define ALL columns expected in the CSV now

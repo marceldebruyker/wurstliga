@@ -1,0 +1,26 @@
+# Virtual Environment
+venv/
+/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE / Editor specific
+.idea/
+.vscode/
+*.swp
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Scraper-related (Optional - If you DON'T want scraper.py on GitHub)
+scraper.py
+
+# ChromeDriver downloads (if webdriver-manager puts them here, usually not)
+chromedriver.exe
+
+# Any log files you might create
+*.log
